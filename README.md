@@ -46,7 +46,7 @@ This **Quiz App** is built with **Next.js** and **Tailwind CSS**, providing a dy
 
 ### 1. Clone the Repository
 ```bash
-
+https://github.com/Biren07/Quiz-Application.git
 ```
 ### 3. Install Dependencies
 ```bash
