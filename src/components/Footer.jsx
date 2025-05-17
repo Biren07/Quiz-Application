@@ -8,7 +8,7 @@ const Footer = () => (
         rel="noopener noreferrer"
         className="text-blue-400 hover:underline"
       >
-        Aman Kumar Sinha
+       Birendra Singh Dhami
       </a>. All rights reserved.
     </p>
   </footer>
