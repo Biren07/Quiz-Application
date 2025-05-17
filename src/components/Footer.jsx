@@ -3,12 +3,11 @@ const Footer = () => (
     <p>
       &copy; 2024{' '}
       <a
-        href="https://aman-kumar-sinha.vercel.app/"
+        href="https://www.linkedin.com/feed/"
         target="_blank"
         rel="noopener noreferrer"
         className="text-blue-400 hover:underline"
-      >
-     Birendra Singh Dhami
+      >Birendra Singh Dhami
       </a>. All rights reserved.
     </p>
   </footer>
