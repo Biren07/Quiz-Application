@@ -2,9 +2,6 @@
 
 This **Quiz App** is built with **Next.js** and **Tailwind CSS**, providing a dynamic and engaging quiz experience. The app features a variety of interactive elements such as real-time scoring, a timer for each question, answer validation, and detailed results upon completion. The user interface is fully responsive and the quiz data is loaded from JSON files.
 
-## Live Demo
-[Click Here to Try the Quiz App](https://quiz-app-aman-kumar-sinha.vercel.app/)
-
 ## Features
 
 ### 1. **Subject Selection**
@@ -49,14 +46,8 @@ This **Quiz App** is built with **Next.js** and **Tailwind CSS**, providing a dy
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/AmanKumarSinhaGitHub/Quiz-App-in-NextJS.git
-```
 
-### 2. Navigate to the Project Folder
-```bash
-cd quiz-app
 ```
-
 ### 3. Install Dependencies
 ```bash
 npm install
@@ -66,19 +57,6 @@ npm install
 ```bash
 npm run dev
 ```
-Open your browser and go to `http://localhost:3000` to see the app in action.
-
-## Project Structure
-
-- `public/data/`: Contains JSON files for questions.
-- `components/Results.jsx`: Displays the quiz results.
-- `components/QuestionTimer.jsx`: Manages the countdown timer for questions.
-- `components/SubjectCard.jsx`: Displays the subjects available for selection.
-- `pages/index.js`: Home page listing available subjects.
-- `pages/quiz/[subject].js`: Quiz page for each subject.
-- `public/images`: Contains static assets like images.
-- `context/PointsContext.js`: Context for managing points state.
-- `layout.js`: Includes header and footer components.
 
 ## Future Improvements
 
@@ -87,6 +65,3 @@ Open your browser and go to `http://localhost:3000` to see the app in action.
 - **Difficulty Levels**: Add multiple difficulty levels for each subject to enhance the quiz experience.
 - **Question Bank Expansion**: Expand the quiz by adding more subjects and questions.
 
-## Contributions
-
-Feel free to fork the repository and submit pull requests for any improvements or features you'd like to add. Contributions are welcome!
